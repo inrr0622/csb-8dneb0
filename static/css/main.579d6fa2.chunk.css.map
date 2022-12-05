@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,oBACF,CAOA,YACE,sBAAuB,CACvB,iBACF","file":"main.579d6fa2.chunk.css","sourcesContent":["body {\n  background-color: tan;\n}\n\n.Moji1 {\n  font-family: sans-serif;\n  text-align: center;\n}\n\n.App {\n  font-family: sans-serif;\n  text-align: center;\n}\n"]}
